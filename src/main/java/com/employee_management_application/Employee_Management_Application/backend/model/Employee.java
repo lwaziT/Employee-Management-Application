@@ -1,4 +1,4 @@
-package com.employee_management_application.Employee_Management_Application.model;
+package com.employee_management_application.Employee_Management_Application.backend.model;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
